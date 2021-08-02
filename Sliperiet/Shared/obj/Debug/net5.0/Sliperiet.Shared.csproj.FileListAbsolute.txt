@@ -1,0 +1,12 @@
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\bin\Debug\net5.0\Sliperiet.Shared.deps.json
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\bin\Debug\net5.0\Sliperiet.Shared.dll
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\bin\Debug\net5.0\ref\Sliperiet.Shared.dll
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\bin\Debug\net5.0\Sliperiet.Shared.pdb
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.AssemblyInfoInputs.cache
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.AssemblyInfo.cs
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.dll
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\ref\Sliperiet.Shared.dll
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.pdb
+C:\Users\dszemenk\source\repos\Sliperiet\Sliperiet\Shared\obj\Debug\net5.0\Sliperiet.Shared.csprojAssemblyReference.cache

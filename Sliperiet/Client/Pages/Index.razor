@@ -1,0 +1,19 @@
+﻿@page "/"
+
+<AuthorizeView>
+    <Authorized>
+        <div class="jumbotron">
+            <h1 class="display-4">Hej, @context.User.Identity.Name!</h1>
+            <p class="lead"></p>
+            <hr class="my-4">
+            <p></p>
+            <p></p>
+
+        </div>
+    </Authorized>
+    <NotAuthorized>
+        <h2>Sliperiet Gylsboda</h2>
+        <p>Föreningslogin</p>
+        <Login></Login>
+    </NotAuthorized>
+</AuthorizeView>
